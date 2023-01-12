@@ -1,5 +1,9 @@
  <h1 align="center">Seja muito Bem-Vindo(a) ao meu GitHub👋</h1>
-
+<div align="center">
+  <a href="https://github.com/kaykymatos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaykymatos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaykymatos&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
