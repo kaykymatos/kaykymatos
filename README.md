@@ -34,7 +34,6 @@
  <h1>
   </h1>
 
- - 🌱 Atualmente estou aprendendo a linguagem Java
  - 🌱Cursos em geral:
      - <strong>C-Sharp</strong> - Intermédiário/Avançado;
      - <strong>Java</strong> - Intermédiário;
@@ -52,9 +51,7 @@
      - <strong>Conhecimentos Front-End:</strong>
        - HTML -Básico/Intermediário
        - CSS -Básico/Intermediário
-       - Ionic -Básico
      - Conhecimentos em banco de dados MySql
      - Conhecimento em linguagens de programação orientadas a objeto
-- 💬 <strong>Pergunte-me sobre:</strong> Projetos, linguagens de programação, técnologia, iremos ter umaboa conversa!
 - 📫 <strong>Atualmente Moro em:</strong> Itu/SP
 </div>
