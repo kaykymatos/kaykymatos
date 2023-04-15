@@ -34,24 +34,4 @@
  <h1>
   </h1>
 
- - 🌱Cursos em geral:
-     - <strong>C-Sharp</strong> - Intermédiário/Avançado;
-     - <strong>Java</strong> - Intermédiário;
-     - <strong>Javascript</strong> - Básico;
-     - <strong>PHP</strong> - Básico
-     - <strong>Informática</strong> - Básico
-     - <strong>Linguagem de programação C</strong> - Básica
-     - <strong>Espanhol</strong> - Intermediário
-
- - 🌱 Habilidades:
-     - <strong>Conhecimentos em linguagem de programação Back-End:</strong>
-       - C#
-       - Java
-       - JavaScript
-     - <strong>Conhecimentos Front-End:</strong>
-       - HTML -Básico/Intermediário
-       - CSS -Básico/Intermediário
-     - Conhecimentos em banco de dados MySql
-     - Conhecimento em linguagens de programação orientadas a objeto
-- 📫 <strong>Atualmente Moro em:</strong> Itu/SP
 </div>
